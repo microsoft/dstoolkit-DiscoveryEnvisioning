@@ -22,7 +22,7 @@ This document provides two Copilot prompts: Discover and Define. You can capture
 Prompts are in the Word Document and you can use the provided PowerPoint Templates to capture the generated content.
 
 ## Instructions:  
--	> You must use Copilot in Windows (or Copilot Web), set to Web – More Precise.  
+-	> **You must use Copilot in Windows (or Copilot Web), set to Web – More Precise.**  
 -	Copy either the Discover or the Define prompt and paste into Copilot (if you see an image below the text you pasted, delete that image).  The prompt is rules and task based.  Meaning you get to select what the prompt does and does not do.  You can also ask Copilot to do other tasks that are not in the list, but which are related to the content generated.
 - **Discover**: 
   - Inputs: Requires your business name and a Business Process Challenge statement (and optionally a Business Scenario description).
