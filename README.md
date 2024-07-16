@@ -25,7 +25,7 @@ Prompts are in the Word Document and you can use the provided PowerPoint Templat
 ## Instructions:  
 -	> You must use Copilot in Windows (or Copilot Web), set to Web – More Precise.  
 -	Copy either the Discover or the Define prompt and paste into Copilot (if you see an image below the text you pasted, delete that image).  The prompt is rules and task based.  Meaning you get to select what the prompt does and does not do.  You can also ask Copilot to do other tasks that are not in the list, but which are related to the content generated.
-- **Discover***: 
+- **Discover**: 
   - Inputs: Requires your business name and a Business Process Challenge statement (and optionally a Business Scenario description).
   - Outputs: The output is a set of prioritized business use cases & requirements for one or more business scenarios.
   - Summary: The prompt generates multiple business scenarios and then allows you to explore and generate a point of view on any of the business scenarios so you can work with your stakeholders to prioritize.  The prompt then allows you to generate business use cases and requirements so that you can prioritize which use cases to focus on.  Copilot can also generate questions to help you explore the scenarios and use cases.  
