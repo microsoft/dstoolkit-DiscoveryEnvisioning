@@ -1,6 +1,6 @@
-# Project
+# AI Use Cases Discover & Define Prompts and Templates
 
-**This project provides Copilot prompts and PowerPoint templates which enable businesses to identify and prioirtize business sceanrios and use cases, then develop the requirements and ORKs for prioritized use cases.**
+This project provides Copilot prompts and PowerPoint templates which enable businesses to identify and prioirtize business sceanrios and use cases, then develop the requirements and ORKs for prioritized use cases.
 
 # Introduction and Overview
 To effectively adopt AI, business challenges need to be linked to use cases that address these challenges and add value. From these use cases are derived the business requirements and OKRs, which form a solution's foundation.
