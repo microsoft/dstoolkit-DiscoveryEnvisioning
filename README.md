@@ -23,7 +23,7 @@ Prompts are in the Word Document and you can use the provided PowerPoint Templat
 
 ## Instructions:  
 -	> **You must use Copilot in Windows (or Copilot Web), set to Web – More Precise.**  
--	Copy either the Discover or the Define prompt and paste into Copilot (if you see an image below the text you pasted, delete that image).  The prompt is rules and task based.  Meaning you get to select what the prompt does and does not do.  You can also ask Copilot to do other tasks that are not in the list, but which are related to the content generated.
+-	Copy either the [Discover](https://github.com/microsoft/dstoolkit-DiscoveryEnvisioning/blob/main/AI%20Use%20Cases%20Discover%20and%20Define%20-%20Master%20Prompts.md#the-discover-prompt---copypaste-the-entire-prompt) or the [Define](https://github.com/microsoft/dstoolkit-DiscoveryEnvisioning/blob/main/AI%20Use%20Cases%20Discover%20and%20Define%20-%20Master%20Prompts.md#the-define-prompt---copypaste-the-entire-prompt) prompt and paste into Copilot (if you see an image below the text you pasted, delete that image).  The prompt is rules and task based.  Meaning you get to select what the prompt does and does not do.  You can also ask Copilot to do other tasks that are not in the list, but which are related to the content generated.
 - **Discover**: 
   - Inputs: Requires your business name and a Business Process Challenge statement (and optionally a Business Scenario description).
   - Outputs: The output is a set of prioritized business use cases & requirements for one or more business scenarios.
@@ -32,7 +32,7 @@ Prompts are in the Word Document and you can use the provided PowerPoint Templat
   - Inputs: Requires your business name, a Business Process Challenge statement, the Business Scenario description, the scenario Problem Statement, the Use Case description and the list of Requirements for the Use Case.   
   - Outputs: The output is a completed BXT (Business, Experience, Technology) template and a set of OKRs for the business requirements. Copilot can also generate questions to help you explore the use cases, requirements and OKRs.  
   - Summary: The prompt focuses on one single use case & requirements (Business Scenarios usually have 3 – 7 use cases under them).  You can repeat this prompt for all the Use Cases that you have prioritized.  
--	Once Copilot has finished, you can select all the generated text and copy into the template slides or any documentation application of your choice.   If you use the templates, you can copy the discussion questions into the slide notes.
+-	Once Copilot has finished, you can select all the generated text and copy into the [template slides](https://github.com/microsoft/dstoolkit-DiscoveryEnvisioning/blob/main/AI%20Use%20Cases%20Discover%20and%20Define%20Templates.pptx) or any documentation application of your choice.   If you use the templates, you can copy the discussion questions into the slide notes.
 -	At the end of this document, you will find a Taxonomy section – you may find this useful as it defines business process challenge, business scenario and so on.
 
 
